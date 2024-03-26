@@ -25,15 +25,14 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!------ Tech Stack ------>
 <h2>🛠️ My Favorite Tools</h2>
 
-<h3>👨‍💻 Programming and Markup Languages & </h3>
+<h3>👨‍💻 Programming and Markup Languages </h3>
 
 <span>
-  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-  ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt="JavaScript">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt="HTML5">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt="CSS3">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=" alt="jQuery">
 </span>
-
 <h3>🧰 Frameworks and Libraries</h3>
 
 <p>
