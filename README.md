@@ -23,7 +23,7 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br><br>
 <!------ Tech Stack ------>
-<h2>🛠️ My Favorite Tools</h2>
+<h2>🛠️ My Favorite Tools</h2>  
 
 <h3>👨‍💻 Programming and Markup Languages </h3>
 
