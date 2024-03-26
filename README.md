@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1813781/screenshots/5629008/working-time.gif" width="450"/>
+  <mp4 src="https://www.genmo.ai/g/clu8vhegy00530pl2bb43ggcl"></mp4>
 </div> 
 <h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=aliweb23&style=flat-square&color=blue" alt="">
@@ -41,8 +41,7 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![TailwindCss](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-  <!-- ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)&nbsp;  -->
-  <!-- ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)&nbsp;  -->
+
 </p>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
