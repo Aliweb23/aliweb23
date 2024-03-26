@@ -98,7 +98,6 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
   ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)
   </p>
-![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)
     <p>
   
  ![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)
