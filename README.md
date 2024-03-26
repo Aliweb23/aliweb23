@@ -93,7 +93,7 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## 👨🏽‍🦲 &nbsp;Social Links
 <div align="center"> 
   
-  <a href="https://www.linkedin.com/in/homayoun-mohammadi-a3590a283/" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-haschimi-67b231278/" target="_blank">
     <p>
   
   ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)
