@@ -94,12 +94,15 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div align="center"> 
   
   <a href="https://www.linkedin.com/in/ali-haschimi-67b231278/" target="_blank">
-    <p>
+   <p>
   
   ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)
-</p>
-
- 
+  </p>
+![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)
+    <p>
+  
+ ![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)
+  </p>
   </a>
   <a>
   </a>
