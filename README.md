@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1813781/screenshots/5629008/working-time.gif" width="350"/>
+  <img src="https://cdn.dribbble.com/users/1813781/screenshots/5629008/working-time.gif" width="450"/>
 </div> 
 <h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=aliweb23&style=flat-square&color=blue" alt="">
