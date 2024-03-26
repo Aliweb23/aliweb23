@@ -99,7 +99,8 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)
   </p>
     <p>
-  
+<a href="https://api.whatsapp.com/send?text=Schau dir das LinkedIn-Profil von Ali Haschimi an: https://www.linkedin.com/in/ali-haschimi-67b231278/" target="_blank">
+
  ![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-017622589866logo=whatsapp&logoColor=fff&style=flat)
   </p>
   </a>
