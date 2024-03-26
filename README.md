@@ -100,7 +100,7 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </p>
     <p>
   
- ![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)
+ ![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-017622589866logo=whatsapp&logoColor=fff&style=flat)
   </p>
   </a>
   <a>
