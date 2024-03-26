@@ -96,7 +96,7 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="https://www.linkedin.com/in/homayoun-mohammadi-a3590a283/" target="_blank">
     <p>
   
-  ![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
+  ![LinkedIn](www.linkedin.com/in/ali-haschimi-67b231278)
 
 </p>
 
@@ -108,7 +108,6 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
  
  
- Hi there 👋
 
 <!--
 **Aliweb23/aliweb23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
