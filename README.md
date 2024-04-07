@@ -48,8 +48,6 @@ I am a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
  ![MYSQLE Datenbak, MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)  
  ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
- ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=) 
-  ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
   <!-- ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)&nbsp;  -->
   <!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)&nbsp;  -->
   <!-- ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)&nbsp;  -->
